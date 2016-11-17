@@ -1,5 +1,5 @@
 {
-    "name": "felipecwb/simple-container",
+    "name": "felipecwb/container",
     "type": "library",
     "license": "MIT",
     "description": "A Simple PHP Data Container.",
